@@ -3,14 +3,14 @@ export interface KardexResultado {
   claveContrato: string;
   usuario: string;
   nodoRecepcion: string;
-  descNodoRecpcion: string;
+  descNodoRecepcion: string;
   nodoEntrega: string;
   descNodoEntrega: string;
   zonaInyeccion: string;
   zonaExtraccion: string;
   qtyNomRecepcion: number;
   qtyAsigRecepcion: number;
-  qtyNombreEntrega: number;
+  qtyNomEntrega: number;
   qtyAsigEntrega: number;
   gasExceso: number;
   tarifaExcesoFirme: number;
