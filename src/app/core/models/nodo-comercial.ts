@@ -1,1 +1,5 @@
-export interface NodoComercial {}
+export interface NodoComercial {
+claveNodo: string;
+descripcion: string;
+
+}

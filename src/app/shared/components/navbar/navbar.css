@@ -1,0 +1,17 @@
+.navbar{
+min-height: 60px;
+}
+
+.nav-link{
+    transition: background-color 0.2s ease;
+    font-size: 0.9rem;
+}
+
+.nav-link:hover{
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.nav-link-active{
+background-color: rgba(255, 255, 255, 0.15);
+
+}
